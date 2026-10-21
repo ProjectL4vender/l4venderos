@@ -1,0 +1,8 @@
+SystemC 3.0
+Codename: BL0SS0M MOD.0
+Project: L4vender
+Target: i386 only
+Boot: legacy BIOS / GRUB Multiboot v1
+Desktop: Windows-like compact shortcuts, taskbar, context menu, movable windows
+Applications: Paint Studio, Notepad, Calendar, Help Center, Task Manager and system tools
+Networking: experimental built-in Intel E1000 / DHCP / HTTP

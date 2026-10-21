@@ -1,0 +1,5 @@
+ITWLMCLI 3.0 BL0SS0M MOD.0
+Command: itwlmcli install network auto
+Effect in 3.0: reinitialize the built-in E1000 driver and synchronously poll for a DHCP lease.
+No external module is loaded; E1000 and the basic IPv4 network stack are linked
+into the i386 kernel. Adapter support depends on an Intel E1000-compatible NIC.
